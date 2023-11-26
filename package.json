@@ -10,12 +10,21 @@
   "scripts": {
     "build": "tsc"
   },
-  "author": "Jonathan Meyer <jon@stej.com>",
+  "author": "Jonathan Meyer <jon@stej.com> (http://stej.com)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonathan-meyer/debug-factory.git"
+    "url": "git+https://github.com/jonathan-meyer/debug-factory.git"
   },
+  "keywords": [
+    "debug",
+    "logger",
+    "log4js"
+  ],
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathan-meyer/debug-factory/issues"
+  },
+  "homepage": "https://github.com/jonathan-meyer/debug-factory#readme",
   "dependencies": {
     "debug": "^4.3.4"
   },
